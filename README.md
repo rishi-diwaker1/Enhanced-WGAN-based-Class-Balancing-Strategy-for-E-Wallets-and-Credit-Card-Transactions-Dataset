@@ -1,7 +1,5 @@
 # Enhanced-WGAN-based-Class-Balancing-Strategy-for-E-Wallets-and-Credit-Card-Transactions-Dataset
 
-### Suggested GitHub Project Description:
-
 **Effectiveness of Class Balancing Strategies in E-Wallets and Credit Card Transactions**
 
 This project explores advanced methods for addressing the class imbalance problem in financial datasets, with a focus on e-wallet and credit card fraud detection. We propose an enhanced **Wasserstein Generative Adversarial Network (WGAN)** incorporating **Graph Convolutional Network (GCN)** layers to generate realistic synthetic data, enabling more robust fraud detection models. The project includes:
